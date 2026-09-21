@@ -111,13 +111,13 @@
         "syntax": {
           "property": {
             "color": "#00FFFFFF",
-            "font_style": "italic",
+            "font_style": null,
             "font_weight": null
           },
           "keyword": {
             "color": "#FF5CFFFF",
-            "font_style": "italic",
-            "font_weight": 500
+            "font_style": null,
+            "font_weight": 600
           },
           "number": {
             "color": "#00FF9DFF",
@@ -151,17 +151,17 @@
           },
           "parameter": {
             "color": "#fdaa59",
-            "font_style": "italic",
+            "font_style": null,
             "font_weight": null
           },
           "function.parameter": {
             "color": "#fdaa59",
-            "font_style": "italic",
+            "font_style": null,
             "font_weight": null
           },
           "function.param": {
             "color": "#fdaa59",
-            "font_style": "italic",
+            "font_style": null,
             "font_weight": null
           },
           "string": {
@@ -221,7 +221,7 @@
           },
           "link_text": {
             "color": "#FF9D00FF",
-            "font_style": "italic",
+            "font_style": null,
             "font_weight": null
           },
           "link_uri": {
@@ -231,7 +231,7 @@
           },
           "predictive": {
             "color": "#315f70ff",
-            "font_style": "italic",
+            "font_style": null,
             "font_weight": null
           },
           "preproc": {
@@ -307,7 +307,7 @@
           "variable": {
             "color": "#00FFFFFF",
             "font_style": null,
-            "font_weight": null
+            "font_weight": 600
           },
           "variant": {
             "color": "#CCFF33FF",
@@ -316,7 +316,7 @@
           },
           "variable.parameter": {
             "color": "#00FFFFFF",
-            "font_style": "italic",
+            "font_style": null,
             "font_weight": null
           },
           "variable.member": {
