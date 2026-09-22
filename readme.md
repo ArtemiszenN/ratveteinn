@@ -11,7 +11,7 @@ The original theme, with maximum contrast for prominent syntax elements.
 ![ratveteinn 1](assets/ratveteinn1.png)
 ![ratveteinn 2](assets/ratveteinn2.png)
 
-### ratveteinn Azure
+### ratveteinn azure
 
 A slightly softer variant that de-emphasizees types, enums, namespaces, and variants.
 
