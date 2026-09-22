@@ -8,19 +8,15 @@ A high-contrast dark theme for [Zed](https://zed.dev), built around deep blacks,
 
 The original theme, with maximum contrast for prominent syntax elements.
 
-|                                         |                                         |
-| --------------------------------------- | --------------------------------------- |
-| ![ratveteinn 1](assets/ratveteinn1.png) | ![ratveteinn 2](assets/ratveteinn2.png) |
-| ![ratveteinn 3](assets/ratveteinn3.png) | ![ratveteinn 4](assets/ratveteinn4.png) |
+![ratveteinn 1](assets/ratveteinn1.png)
+![ratveteinn 2](assets/ratveteinn2.png)
 
-### ratveteinn azure
+### ratveteinn Azure
 
-A slightly softer variant that de-emphasizes types, enums, namespaces, and variants.
+A slightly softer variant that de-emphasizees types, enums, namespaces, and variants.
 
-|                                                     |                                                     |
-| --------------------------------------------------- | --------------------------------------------------- |
-| ![ratveteinn azure 1](assets/ratveteinn-azure1.png) | ![ratveteinn azure 2](assets/ratveteinn-azure2.png) |
-| ![ratveteinn azure 3](assets/ratveteinn-azure3.png) | ![ratveteinn azure 4](assets/ratveteinn-azure4.png) |
+![ratveteinn azure 1](assets/ratveteinn-azure1.png)
+![ratveteinn azure 2](assets/ratveteinn-azure2.png)
 
 ## Installation
 
