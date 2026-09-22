@@ -1,6 +1,6 @@
 id = "ratveteinn-theme"
 name = "ratveteinn"
-version = "0.0.2"
+version = "1.0.0"
 schema_version = 1
 authors = ["tseileinn"]
 description = "A near-black, ultra-high-contrast theme inspired by Synthwave themes."
